@@ -22,6 +22,7 @@ main > h1 {
 }
 
 #bio {
+  padding: 30px;
+  background-color: black;
   font-style: italic;
-  color:darksalmon
-}
+  color:orchid;
